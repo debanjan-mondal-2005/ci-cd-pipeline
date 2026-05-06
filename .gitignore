@@ -1,0 +1,7 @@
+# add environment variables
+.env
+# add venv
+venv/
+cicd_g1/
+src/model.pkl
+__pycache__/
